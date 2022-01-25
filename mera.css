@@ -1,0 +1,98 @@
+#container{
+    height: 1000px;
+    width: 100%;
+    background-image: url("photo-1507842217343-583bb7270b66.jpeg");
+    backface-visibility: inherit;
+    color: blanchedalmond;
+}
+
+#Menu{
+    height: 320px;
+    width: 1000px;
+   background-image: url("IMG_9882.jpg");
+    margin: auto;
+    font-size: smaller;
+    font-style: normal;
+    border: coral;
+    
+}
+.inside_menu{
+    float: left;
+    font-size: 40px;
+    margin-left: 50px;
+   color: cornsilk;
+}
+#home_menu{
+    margin-left: 120px;
+}
+a{
+    text-decoration: none;
+}
+#mods{
+    height: 170px;
+    width: 100%;
+    background-color: rgb(131, 94, 25);
+    color:rgb(255, 255, 255);
+    margin: auto;
+    font-size: smaller;
+    font-style: oblique;
+    border: coral;
+}
+.inside_mods{
+    float: left;
+    font-size: 30px;
+    margin-left: 20px;
+   color: cornsilk;
+   
+}
+    
+
+#midd{
+    height: 80px;
+    width: 200px;
+    
+    margin: auto;
+    font-size: 30px;
+    text-align: left;
+   
+}
+#middle_pic{
+    height: 400px;
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.pic_content{
+    height: 150px;
+    width: 257px;
+}
+#cv_table{
+    height: 100%;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+}
+#head{
+    text-align: center;
+}
+#footer{
+    height: 200px;
+    width: 800px;
+    background-color: rgb(131, 94, 25);;
+    margin-bottom: auto;
+}
+.logos{
+    height: 25px;
+    width: 25px;
+}
+.num_name{
+    float: right;
+}
+.hero-image {
+    background-image: url("download.jpg"); 
+    background-color: #7e4747; 
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  }
